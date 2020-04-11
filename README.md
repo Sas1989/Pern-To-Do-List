@@ -1,1 +1,1 @@
-![Getting Started](image.jpg) sas
+![Getting Started](image.jpg)
